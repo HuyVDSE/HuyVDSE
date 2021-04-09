@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Software Engineer at the FPT University\
+🎓 &nbsp;I'm currently studying Software Engineer at the FPT University.\
 🌱 &nbsp;My work is JavaEE, C#.Net, JS.\
 💬 &nbsp;Feel free to reach out to me.\
 📫 &nbsp;How to reach me:
