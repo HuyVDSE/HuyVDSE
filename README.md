@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Engineer at the FPT University.\
-🌱 &nbsp;My work is JavaEE, C#.Net, JS.\
+🌱 &nbsp;My work is Java, C# .Net, JS.\
 💬 &nbsp;Feel free to reach out to me.\
 📫 &nbsp;How to reach me:
 * ✉️ &nbsp;You can shoot me an email at duchuy2k2501@gmail.com! I'll try to respond as soon as I can.
